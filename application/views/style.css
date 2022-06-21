@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+form{
+
+    width: 500px;
+    height:400px;
+    background-color: skyblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+     margin-left: 40%;
+    margin-top: 100px;
+    
+
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+.pr{
+    margin-top: 10px;
+}
+input{
+    margin-left: 80px;
+    width: 200px;
+    margin-top: 20px;
+    padding: 10px;
+
+}
+label{
+    margin-left: 80px;
+}
+.submit{
+    background-color: brown;
+    width: 120px;
+    margin-top: 20px;
+
+}
+
